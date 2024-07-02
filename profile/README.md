@@ -1,6 +1,9 @@
 # Naculus - 那酷勒斯
 Hello World Naculus here :octocat:
 
+# Our product
+- [計畫中] LusERP (勒斯ERP) : 簡潔，簡單操作，人人都可以創建屬於自己的企業團隊ERP伺服器
+
 
 <!--
 
