@@ -1,18 +1,15 @@
-# Naculus - 那酷勒斯
-Hello World Naculus here :octocat:
+# Naculus
 
-# Our product
-- We create everything 
-<!-- - [計畫中] LusERP (勒斯ERP) : 簡潔，簡單操作，人人都可以創建屬於自己的企業團隊ERP伺服器 -->
+Naculus builds developer tooling for wallets, identity, and payments.
 
+## Public projects
 
-<!--
+- **[connect-suite](https://github.com/naculus-official/connect-suite)**: the Naculus Connect SDK monorepo. It contains the core library, the AppKit UI packages (React, Vue, native, web components), and a set of wallet and chain connectors (EVM, Solana, XRPL, passkeys, WalletConnect, Safe, and more). Packages are published under the `@naculus` scope on npm.
 
-**Here are some ideas to get you started:**
+## Status
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- `connect-suite` is the actively developed SDK. Older repositories for the previous SDK layout are frozen.
+
+## Contact
+
+Open an issue on the relevant repository for bugs or feature requests.

@@ -1,6 +1,6 @@
 # .github
 
-Hello world! 我是 Yomisana 這裡是 naculus 的 .github 介紹主頁
+Organization profile and shared community files for [Naculus](https://github.com/naculus-official).
 
-
-Yeet 😺
+- Organization overview: [profile/README.md](profile/README.md)
+- Main public project: [connect-suite](https://github.com/naculus-official/connect-suite), the Naculus Connect SDK.
